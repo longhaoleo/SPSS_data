@@ -21,16 +21,14 @@
 ```
 ames-house-prices-spss/
 ├── README.md
-├── SPSS/
-│   └── data/
-│       ├── data_description.txt      # Kaggle 变量字典
-│       ├── train.csv / test.csv      # 原始数据
-│       ├── data_backup/              # 数据备份
-│       ├── main.sav                  # SPSS 主工作文件
-│       ├── predict.sav               # 预测结果
-│       ├── *.xml                     # SPSS 分析输出
-│       ├── *.sav / *.csplan          # SPSS 抽样文件
-│       └── 基于SPSS的房价影响因素分析及预测方法应用.pdf  # 完整报告
+├── data_description.txt              # Kaggle 变量字典
+├── train.csv / test.csv              # 原始数据
+├── data_backup/                      # 数据备份
+├── main.sav                          # SPSS 主工作文件
+├── predict.sav                       # 预测结果
+├── *.xml                             # SPSS 分析输出
+├── *.sav / *.csplan                  # SPSS 抽样文件
+└── 基于SPSS的房价影响因素分析及预测方法应用.pdf  # 完整报告
 ```
 
 ## 复现
